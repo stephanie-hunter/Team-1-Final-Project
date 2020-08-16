@@ -1,0 +1,13 @@
+  h1, p {
+    font-family: 'Libre Caslon Text', serif;
+    text-align: center;
+      }
+
+hr{
+  border: 1px solid black;
+  width: 700px;
+}
+
+p{
+  color:gray;
+}
