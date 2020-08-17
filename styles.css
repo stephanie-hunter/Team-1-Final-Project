@@ -24,6 +24,7 @@ font-style: light;
 .home{
   overflow: visible;
 }
+
 .header{
   text-align: center;
   font-family: 'Libre Caslon Text', serif;
@@ -38,7 +39,6 @@ border: 0.5px solid black;
 }
 
 .topnav{
-
   background-color: white;
   overflow: hidden;
   position: relative;
